@@ -1,4 +1,4 @@
-# Tubitak Spark Proje - Yusuf Dagdeviren
+# Tubitak Spark Project - Yusuf Dagdeviren
 
 This repository contains the code for a machine learning project using PySpark, which is part of the Tubitak Data Intensive Applications program. The project involves analyzing housing data and predicting median house values using a linear regression model.
 
